@@ -1,5 +1,6 @@
 # Compte rendu : Secrets in Source
 Plateforme : HackerDNA ( https://hackerdna.com/labs/secrets-in-source )
+Auteur : SRH
 Catégorie : Web, Information Disclosure, Broken Access Control
 Difficulté : Très Facile
 Tags : Web, Source Code
