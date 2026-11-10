@@ -2,7 +2,7 @@
 
 Plateforme : HackerDNA
 Auteur : SRH
-Catégorie : Sécurité Web & API (https://hackerdna.com/fr/labs/fuite-mythos)
+Catégorie : Sécurité Web & API ([https://hackerdna.com/fr/labs/fuite-mythos](https://hackerdna.com/fr/labs/mythos-leak-headless-cms))
 Difficulté : Moyenne
 Tags : CMS headless, Sanity, API GROQ, énumération, fuite de données, brouillons, historique de révisions, vol de token, dataset interne
 XP : +400 XP
