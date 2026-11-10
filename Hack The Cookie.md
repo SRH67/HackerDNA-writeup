@@ -1,5 +1,6 @@
 # Compte rendu : Hack The Cookie
 Plateforme : HackerDNA ( https://hackerdna.com/labs/hack-the-cookie )
+Auteur : SRH
 Catégorie : Sécurité Web et API
 Difficulté : Très Facile
 Tags : Web, Cookie, Privilège Escalation, Session
