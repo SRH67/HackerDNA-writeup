@@ -1,7 +1,7 @@
 # Compte rendu : Reverse Engineering - License Key Crackme
-Plateforme : HackerDNA
+Plateforme : HackerDNA ([https://hackerdna.com/labs/reverse-engineering-crackme](https://hackerdna.com/labs/reverse-engineering-crackme))
 Auteur : SRH
-Catégorie : Reverse Engineering ([https://hackerdna.com/fr/labs/reverse-engineering-crackme](https://hackerdna.com/fr/labs/reverse-engineering-crackme))
+Catégorie : Reverse Engineering
 Difficulté : Moyenne
 Tags : Reverse Engineering, Binary Analysis, Crackme, Keygen, objdump, GDB, ELF, ARM64 Assembly, Static Analysis, Ghidra
 XP : +400 XP
