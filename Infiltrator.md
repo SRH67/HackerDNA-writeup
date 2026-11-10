@@ -1,5 +1,6 @@
 # Compte rendu : Infiltrator
 Plateforme : HackerDNA ( https://hackerdna.com/labs/infiltrator )
+Auteur : SRH
 Catégorie : Web & API Security
 Difficulté : Boss
 Tags : JWT Manipulation, SSH, Log Injection, Privilège Escalation
