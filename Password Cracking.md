@@ -1,5 +1,6 @@
 # Compte rendu : Password Cracking - Custom Wordlist Attack
 Plateforme : HackerDNA ( https://hackerdna.com/fr/labs/password-cracking-custom-wordlist )
+Auteur : SRH
 Catégorie : Cryptography
 Difficulté : Facile
 Tags : Password Cracking, Custom Wordlist, Wordlist Generation, CeWL
