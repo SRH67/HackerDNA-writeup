@@ -1,5 +1,6 @@
 # Compte rendu : Spoof!
 Plateforme : HackerDNA ( https://hackerdna.com/labs/spoof )
+Auteur : SRH
 Catégorie : Network & Infrastructure
 Difficulté : Facile
 Tags : IP Spoofing, HTTP Headers, Access Control
