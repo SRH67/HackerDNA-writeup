@@ -1,6 +1,6 @@
 # Compte rendu : Hidden CMS Breach
 
-Plateforme : [HackerDNA](https://hackerdna.com/labs/hidden-cms-breach)
+Plateforme : HackerDNA (https://hackerdna.com/labs/hidden-cms-breach)
 Auteur : SRH
 Catégorie : Sécurité Web & API
 Difficulté : Moyenne
