@@ -1,5 +1,6 @@
 # Compte rendu : Include Me
 Plateforme : HackerDNA ( https://hackerdna.com/labs/include-me )
+Auteur : SRH
 Catégorie : Web, File Inclusion
 Difficulté : Facile
 Tags : LFI, PHP, Directory Traversal, php://filter
