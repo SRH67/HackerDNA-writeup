@@ -1,5 +1,5 @@
 # Compte rendu : AlVault
-Plateforme : HackerDNA ( https://hackerdna.com/fr/labs/alvault )
+Plateforme : HackerDNA ( https://hackerdna.com/labs/alvault )
 Catégorie : Web, Fuite d'informations, Injection de commandes
 Difficulté : Moyen
 Tags : Web
