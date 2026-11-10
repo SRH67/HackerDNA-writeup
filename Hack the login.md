@@ -1,5 +1,6 @@
 # Compte rendu : Hack The Login
 Plateforme : HackerDNA ( https://hackerdna.com/labs/hack-the-login )
+Auteur : SRH
 Catégorie : Web, Client-Side Auth
 Difficulté : Facile
 Tags : Web, JavaScript, Hardcoded Credentials
