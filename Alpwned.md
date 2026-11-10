@@ -1,7 +1,6 @@
 # Compte rendu : Alpwned
 
-Plateforme : HackerDNA
-Lien : https://hackerdna.com/labs/alpwned
+Plateforme : HackerDNA (https://hackerdna.com/labs/alpwned)
 Auteur : SRH
 Catégorie : Sécurité Web & API
 Difficulté : Moyenne
