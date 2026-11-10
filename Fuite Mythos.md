@@ -1,8 +1,8 @@
 # Compte rendu : Fuite Mythos - Exposition des brouillons d'un CMS headless
 
-Plateforme : HackerDNA
+Plateforme : HackerDNA ([https://hackerdna.com/labs/fuite-mythos](https://hackerdna.com/labs/mythos-leak-headless-cms))
 Auteur : SRH
-Catégorie : Sécurité Web & API ([https://hackerdna.com/labs/fuite-mythos](https://hackerdna.com/labs/mythos-leak-headless-cms))
+Catégorie : Sécurité Web & API 
 Difficulté : Moyenne
 Tags : CMS headless, Sanity, API GROQ, énumération, fuite de données, brouillons, historique de révisions, vol de token, dataset interne
 XP : +400 XP
