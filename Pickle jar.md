@@ -1,8 +1,8 @@
 # Compte rendu : Pickle Jar
 
-Plateforme : HackerDNA
+Plateforme : HackerDNA ([https://hackerdna.com/fr/labs/pickle-jar](https://hackerdna.com/fr/labs/pickle-jar))
 Auteur : SRH
-Catégorie : Sécurité Web & API ([https://hackerdna.com/fr/labs/pickle-jar](https://hackerdna.com/fr/labs/pickle-jar))
+Catégorie : Sécurité Web & API 
 Difficulté : Moyenne
 Tags : Python, Pickle, Désérialisation, RCE, Escalade de privilèges, Sudo, Linux
 XP : +400 XP
