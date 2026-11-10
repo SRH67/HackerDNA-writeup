@@ -1,5 +1,6 @@
 # Compte rendu : Cronpocalypse
 Plateforme : HackerDNA ( https://hackerdna.com/labs/cronpocalypse )
+Auteur : SRH
 Catégorie : Privilege Escalation & Post-Exploitation
 Difficulté : Moyenne
 Tags : SSH, Cron, Cron Job Hijacking, Privilège Escalation
