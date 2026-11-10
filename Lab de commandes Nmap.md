@@ -1,6 +1,6 @@
 # Compte rendu : Lab de commandes Nmap 
-(https://hackerdna.com/fr/labs/learn-102)
-Plateforme : HackerDNA
+Plateforme : HackerDNA (https://hackerdna.com/fr/labs/learn-102)
+Auteur : SRH
 Catégorie : Network, Reconnaissance
 Difficulté : Facile
 Tags : Nmap, Telnet, Weak Credentials, Privilège Escalation
