@@ -1,5 +1,6 @@
 # Compte rendu : Secrets in Source 2
 Plateforme : HackerDNA ( https://hackerdna.com/labs/secrets-in-source-2 )
+Auteur : SRH
 Catégorie : Web, Information Disclosure, Bypass Client-Side
 Difficulté : Facile
 Tags : Web, Source Code, Contournement
